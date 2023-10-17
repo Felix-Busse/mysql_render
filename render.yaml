@@ -1,7 +1,7 @@
 services:
 - type: web
   name: mysql
-  plan: standard
+  plan: free
   env: docker
   autoDeploy: false
   disk:
