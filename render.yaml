@@ -21,4 +21,4 @@ envVarGroups:
   - key: MYSQL_PASSWORD
     value: lars
   - key: MYSQL_ROOT_PASSWORD
-    value: admin_password
+    value: admin
